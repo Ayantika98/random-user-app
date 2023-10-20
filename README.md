@@ -1,4 +1,5 @@
-# EASTADVANTAGE USER Application
+# RANDOM USER Application
+The application is live at https://Ayantika98.github.io/RandomUserAssignment.
 
 This React application fetches and displays random user information, including the user's name and email, from the [Random User API](https://randomuser.me/api).
 
